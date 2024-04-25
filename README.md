@@ -8,12 +8,6 @@ Welcome to the Nike Landing Page project! This repository contains the code for 
   
 - **Engaging Animations**: Experience subtle yet impactful animations throughout the page, enhancing user engagement and creating a dynamic browsing experience.
 
-- **Responsive Layout**: Built with responsiveness in mind, the landing page adapts seamlessly to various screen sizes and devices, ensuring an optimal viewing experience for all users.
-
-- **Interactive Elements**: Explore the collection of Nike sports shoes and seamlessly add desired items to your cart with the intuitive and user-friendly interface.
-
-- **Social Media Integration**: Stay connected with Nike on social media platforms by easily accessing and following their official profiles through integrated social media icons.
-
 ## Technologies Used:
 
 - **HTML5**: Structured the content of the landing page using HTML5 to ensure semantic markup and accessibility.
@@ -22,11 +16,13 @@ Welcome to the Nike Landing Page project! This repository contains the code for 
 
 ## Getting Started:
 
-To explore the Nike Landing Page, simply clone this repository to your local machine and open the `index.html` file in your preferred web browser. Alternatively, you can [view the live demo here](#) to experience the landing page in action.
+To explore the Nike Landing Page, simply clone this repository to your local machine and open the `index.html` file in your preferred web browser.
 
 ## Contributing:
 
 Contributions to the project are welcome! If you have any suggestions for improvements, bug fixes, or new features, please feel free to open an issue or submit a pull request.
 
 ## Project Review:
+
+![Nike Landing Page](Nike.png)
 
