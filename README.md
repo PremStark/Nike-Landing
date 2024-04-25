@@ -22,7 +22,7 @@ To explore the Nike Landing Page, simply clone this repository to your local mac
 
 Contributions to the project are welcome! If you have any suggestions for improvements, bug fixes, or new features, please feel free to open an issue or submit a pull request.
 
-## Project Review:
+## Preview
 
 ![Nike Landing Page](Nike.png)
 
